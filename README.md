@@ -1,5 +1,6 @@
 #### Author: Muthudivya NK
 #### Dia&Co technical assessment
+#### Go to "test-instructions.html" for instructions
 
 ## How to run this script 
 
